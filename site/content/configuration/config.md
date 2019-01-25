@@ -7,7 +7,7 @@ appFooter: |-
   <a href="tel:+41765365070">Tel. 076 536 50 70</a>
   <mailto:info@barvermieten.ch>\
   <a href="https://www.instagram.com/barvermieten/" target="_blank">Folge uns auf Instagram</a>
-appColor: '#000000'
+appColor: '#818D6D'
 appTitle: barvermieten
 appTitleShort: barvermieten
 appPublisher: barvermieten
