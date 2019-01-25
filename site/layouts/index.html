@@ -1,0 +1,21 @@
+<!doctype html>
+{{ partial "head-barvermieten" }}
+<html lang="de">
+{{ partial "head-site" . }}
+<body id="root" class="home {{ .Type }} {{ .File.TranslationBaseName }}">
+    <div role="heading">
+        <a href="#bg-wrapper">
+            <div class="logooverlay"></div>
+            <div class="hero"></div>
+        </a>
+        <div id="bg-wrapper">
+            <div class="container" id="intro" role="main">
+                {{ .Content }}
+            </div>
+            {{ partial "footer" . }}
+        </div>
+    </div>
+</body>
+{{ partial "schema/global" . }}
+{{ partial "javascript" . }}
+</html>
