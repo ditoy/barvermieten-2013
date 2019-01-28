@@ -1,12 +1,12 @@
 ---
 title: Site Configuration
 appFooter: |-
+  <a href="https://www.instagram.com/barvermieten/" class="social" target="_blank" arial-label="Instagram"><img src="/images/if_instagram.svg" alt="Instagram"></a>
   barvermieten\
   8037 Zürich\
 
   <a href="tel:+41765365070">Tel. 076 536 50 70</a>
-  <mailto:info@barvermieten.ch>\
-  <a href="https://www.instagram.com/barvermieten/" target="_blank">Folge uns auf Instagram</a>
+  <mailto:info@barvermieten.ch>
 appColor: '#818D6D'
 appTitle: barvermieten
 appTitleShort: barvermieten
