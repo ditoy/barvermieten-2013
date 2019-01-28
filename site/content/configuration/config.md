@@ -1,14 +1,13 @@
 ---
 title: Site Configuration
 appFooter: |-
-  <a href="https://www.instagram.com/barvermieten/" class="social" target="_blank" arial-label="Instagram"><img src="/images/if_instagram.svg" alt="Instagram"></a>
   barvermieten\
   8037 Zürich\
 
   <a href="tel:+41765365070">Tel. 076 536 50 70</a>
   <mailto:info@barvermieten.ch>
 appColor: '#818D6D'
-appTitle: barvermieten
+appTitle: barvermieten - Catering Zürich - mobile Bar mieten in Zürich
 appTitleShort: barvermieten
 appPublisher: barvermieten
 appDescription: 'barvermieten - Mobile Bar zu vermieten in Zürich - Bar, Catering & mehr.'
