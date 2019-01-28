@@ -148,15 +148,15 @@ header {
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 6rem 0 2rem 0;
+  padding: 2rem 0;
   min-height: 100vh;
 
-  @include media('>desktop') {
-    border-radius: 0.5rem;
+  @include media('<desktop') {
+    padding: 0 0 30vh 0;
   }
 
-  @include media('<tablet') {
-    padding: 0 0 30vh 0;
+  @include media('>=mega') {
+    padding: 4rem 0;
   }
 }
 
