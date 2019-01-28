@@ -25,4 +25,4 @@ Ob Cüpli-Bar, Caipirinha-Bar oder 08.15-Bar, für uns ist es mach-bar. Mit Cate
 
 Weitere Details auf Anfrage.
 
-Besuchen sie auch <a href="http://www.flussssbar.ch">www.flussssbar.ch</a> und <a href="http://www.filmfluss.ch">www.filmfluss.ch</a>
+Besuchen Sie auch unsere [flussssbar.](https://www.flussssbar.ch) sowie unser sympathisches [Freiluftkino Filmfluss](https://www.filmfluss.ch).
