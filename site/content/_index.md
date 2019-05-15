@@ -12,9 +12,9 @@ Ob Cüpli-Bar, Caipirinha-Bar oder 08.15-Bar, für uns ist es mach-bar. Mit Cate
 
 ## Übersicht unseres Angebots
 
-* Mobile Bar
+* mobile Bar
 * Bartheken in verschiedenen Grössen
-* Transporte Auf-/Abbau
+* Transport, Auf-/Abbau der Bar
 * Barutensilien, Becher etc.
 * Barpersonal
 * Tonanlage mit passenden CD's oder Live Musik
