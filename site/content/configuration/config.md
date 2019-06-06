@@ -12,7 +12,7 @@ appTitleShort: barvermieten
 appPublisher: barvermieten
 appDescription: 'barvermieten - Mobile Bar zu vermieten in Zürich - Bar, Catering & mehr.'
 appKeywords: 'bar mieten, bar, zürich, catering, catering mieten, bar vermieten, barvermieten'
-appImage: 'https://ucarecdn.com/dcfc3b2b-86dd-4f96-b7f5-4a1dcf566f70/-/resize/800x/'
+appImage: 'https://www.barvermieten.ch/images/hero.jpg'
 appSitemapUrl: 'https://www.barvermieten.ch'
 appGoogleVerification: t1JyQErEtC1XQ4ZvhKkTID5gf4s2_sKd83dooEXXsxs
 ---
