@@ -1,5 +1,6 @@
 ---
 title: Site Configuration
+robotsExclude: true
 appFooter: |-
   barvermieten\
   8037 Zürich\
@@ -16,4 +17,3 @@ appImage: 'https://ucarecdn.com/d82249ea-fe78-4c16-ab7c-d0a881b2aacb/-/resize/80
 appSitemapUrl: 'https://www.barvermieten.ch'
 appGoogleVerification: t1JyQErEtC1XQ4ZvhKkTID5gf4s2_sKd83dooEXXsxs
 ---
-
