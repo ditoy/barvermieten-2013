@@ -6,7 +6,7 @@ appFooter: |-
   8037 Zürich\
 
   <a href="tel:+41765365070">Tel. 076 536 50 70</a>
-  <info(at))barvermieten.ch>
+  <info(at)barvermieten.ch>
 appColor: '#818D6D'
 appTitle: barvermieten - Catering Zürich - mobile Bar mieten in Zürich
 appTitleShort: barvermieten
